@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat";
+  color: #801307;
+}
+body {
+  background-color: rgb(28, 56, 28);
+}
+.one {
+  background-color: #fff8f7;
+  width: 200px;
+  border-left: 20px solid #b43324;
+  height: 40px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.two {
+  background-color: #fff8f7;
+  width: 200px;
+  border-left: 20px solid #b43324;
+  height: 40px;
+  text-align: center;
+  padding-top: 20px;
+}
+.three {
+  background-color: #fff8f7;
+  width: 200px;
+  height: 40px;
+  border-left: 20px solid #b43324;
+  text-align: center;
+  padding-top: 20px;
+}
+.four {
+  background-color: #fff8f7;
+  width: 200px;
+  border-left: 20px solid #b43324;
+  height: 40px;
+  text-align: center;
+  padding-top: 20px;
+}
+.two:hover {
+  background-color: #b43324;
+  color: #ffffff;
+}
